@@ -13,6 +13,6 @@
 Your kind calls me Leon Koech.
 
 I only added this readme because I'm seeing everyone here created theirs. Also, because I think it looks cool. 
-I'll update it later with more important things.
+I'll update it later with more important things, Such as the meaning of life.
 
 ### It was nice of you to stop by 👽
