@@ -16,3 +16,4 @@ I only added this readme because I'm seeing everyone here created theirs. Also, 
 I'll update it later with more important things, Such as; the meaning of life and what brought you here.
 
 ### It was nice of you to stop by 👽
+I have to go feed my cats now, so that they have the energy to walk on my keyboard while I'm coding
