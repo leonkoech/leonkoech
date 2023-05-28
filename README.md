@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **`Springboot`, `embedded C`, `Unity (VR/AR)`, `accessibility`** for the web and trying to understand the **`Kalman Filter`**
+- 🌱 I’m currently learning **`Spring boot`, `embedded C`, `Unity (VR/AR)`, `web accessibility`** and trying to understand the **`Kalman Filter`**
 
 - 👨‍💻 All of my projects are available at [https://leonkoech.com](https://leonkoech.com)
 
