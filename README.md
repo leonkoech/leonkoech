@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **`Spring boot`, `embedded C`, `Unity (VR/AR)`, `web accessibility`** and trying to understand the **`Kalman Filter`**
+- 🌱 I’m currently learning ** `embedded C`, `Unity (VR/AR)`, `AWS lambda` and the **`Kalman Filter`** algorithm
 
 - 👨‍💻 All of my projects are available at [https://leonkoech.com](https://leonkoech.com)
 
