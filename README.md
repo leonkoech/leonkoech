@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **`embedded C`, `Unity (VR/AR)`, `AWS lambda`** and the **`Kalman Filter`** algorithm
 
-- 👨‍💻 All of my projects are available at [https://leonkoech.com](https://leonkoech.com)
+- 👨‍💻 Most of my projects are available at [https://leonkoech.com](https://leonkoech.com)
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI](https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI)
 
