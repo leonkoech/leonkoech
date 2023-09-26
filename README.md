@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Leon Kipkoech</h1>
-<h3 align="center">Full Stack Engineer 👩🏿‍💻 | XR developer 🥽 | Community Lead 🚀</h3>
+<h3 align="center">Full Stack | XR | Community | IEEE </h3>
 
+<details>
+  <summary>Professional Summary</summary>
+  Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration on Software Engineering.
 
+Leon, through his projects, has expressed special interest in research topics such as Haptic Technologies, Ubiquitous Computing, HCI and Accessibility Technologies more so in the XR ecosystem (Virtual, Augmented and Mixed Reality).
+
+He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites) .
+
+Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally and internationally. He is also the president of FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
+</details>
 
 - 🌱 I’m currently learning **`embedded C`, `Unity (VR/AR)`, `AWS lambda`** and the **`Kalman Filter`** algorithm
 
