@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Kipkoech</h1>
 <h3 align="center">Full Stack | XR | Community | IEEE </h3>
 
-- 🌱 Leon is currently learning **`embedded C`, `Unity (VR/AR)`** and the **`Electronics`** algorithm
+- 🌱 Leon is currently learning **`embedded C`, `Unity (VR/AR)`** and **`Electronics`** 
 
 - 👨‍💻 Most of Leon's projects are available at (portfolio, highly recommend visiting) [https://leonkoech.com](https://leonkoech.com)
 
