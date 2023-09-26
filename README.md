@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋, I'm Leon Kipkoech</h1>
 <h3 align="center">Full Stack | XR | Community | IEEE </h3>
 
-<details>
-  <summary>Professional Summary</summary>
+- 🌱 Leon is currently learning **`embedded C`, `Unity (VR/AR)`** and the **`Electronics`** algorithm
+
+- 👨‍💻 Most of Leon's projects are available at (portfolio, highly recommend visiting) [https://leonkoech.com](https://leonkoech.com)
+
+- 📄 Know about Leon's experiences (resume) [https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI](https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI)
+
+<h3  align="left">Professional Summary</h3>
+  
   Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration on Software Engineering.
 
-Leon, through his projects, has expressed special interest in research topics such as Haptic Technologies, Ubiquitous Computing, HCI and Accessibility Technologies more so in the XR ecosystem (Virtual, Augmented and Mixed Reality).
-
-He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites) .
-
-Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally and internationally. He is also the president of FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
-</details>
-
-- 🌱 I’m currently learning **`embedded C`, `Unity (VR/AR)`, `AWS lambda`** and the **`Kalman Filter`** algorithm
-
-- 👨‍💻 Most of my projects are available at [https://leonkoech.com](https://leonkoech.com)
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI](https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI)
+  Leon, through his projects, has expressed special interest in research topics such as Haptic Technologies, Ubiquitous Computing, HCI and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
+  
+  He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites) .
+  
+  Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally and internationally. He is also the president of FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
