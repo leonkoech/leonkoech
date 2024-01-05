@@ -11,7 +11,7 @@
   
   Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration on Software Engineering.
 
-  Leon, through his projects, has expressed special interest in research topics such as Haptic Technologies, Ubiquitous Computing, Human Computer Interraction and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
+  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Ubiquitous Computing, Human Computer Interraction and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
   
   He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites) .
   
