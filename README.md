@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Kipkoech</h1>
 <h3 align="center">Full Stack | XR | Community | IEEE </h3>
 
-- 🌱 Leon is currently learning **`Technical Proposals Writing`, `Haptic Technologies`, `Virtual System Interfaces`, `Cloud Computing Security`** and **`Unity (VR/AR)`** 
+- 🌱 Leon is currently learning **`Haptic Technologies`, `3D user Interfaces`, `Cloud Computing Security`** and **`Unity (VR/AR)`** 
 
 - 👨‍💻 Most of Leon's projects are available at (portfolio, highly recommend visiting) [https://leonkoech.com](https://leonkoech.com)
 
