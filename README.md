@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leon Kipkoech</h1>
 <h3 align="center">Full Stack | XR | Community | IEEE </h3>
 
-- 🌱 Leon is currently learning **`embedded C`, `Haptic Technologies`, `Unity (VR/AR)`** and **`Electronics`** 
+- 🌱 Leon is currently learning **`Technical Proposals Writing`, `Haptic Technologies`, `Virtual System Interfaces`, `Cloud Computing Security`** and **`Unity (VR/AR)`** 
 
 - 👨‍💻 Most of Leon's projects are available at (portfolio, highly recommend visiting) [https://leonkoech.com](https://leonkoech.com)
 
@@ -9,13 +9,13 @@
 
 <h3  align="left">Professional Summary</h3>
   
-  Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration on Software Engineering.
+  Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration in Software Engineering.
 
-  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Ubiquitous Computing, Human Computer Interraction and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
+  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Ubiquitous Computing, Human-Computer Interaction, and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
   
-  He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites) .
+  He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites).
   
-  Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally and internationally. He is also the president of FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
+  Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally, and internationally. He is also the president of the FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
