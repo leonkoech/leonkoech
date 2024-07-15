@@ -9,7 +9,7 @@
 
 <h3  align="left">Professional Summary</h3>
   
-  Leon is a senior undergraduate at Florida National University, majoring in Information Technology with a concentration in Software Engineering.
+  Leon is a senior undergraduate at concentrating in Software Engineering.
 
   Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Ubiquitous Computing, Human-Computer Interaction, and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
   
