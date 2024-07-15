@@ -9,9 +9,9 @@
 
 <h3  align="left">Professional Summary</h3>
   
-  Leon is a senior undergraduate at concentrating in Software Engineering.
+  Leon is a senior undergraduate concentrating in Software Engineering.
 
-  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Ubiquitous Computing, Human-Computer Interaction, and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented and Mixed Reality).
+  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Human Robotic Interaction (HRI) and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented, and Mixed Reality).
   
   He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites).
   
