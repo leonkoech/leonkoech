@@ -5,7 +5,7 @@
 
 - 👨‍💻 Most of Leon's projects are available at (portfolio, highly recommend visiting) [https://leonkoech.com](https://leonkoech.com)
 
-- 📄 Know about Leon's experiences (resume) [https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI](https://docs.google.com/document/d/1Z0HPYQFaZlRLRR2DhwK_3LIPq3ADMjTreZrDpfXoRXI)
+- 📄 Know about Leon's experiences (resume) [https://drive.google.com/file/d/1cJQ9xzVCfc5403L4O-iF5dYeI2oYu_O_/view](https://drive.google.com/file/d/1cJQ9xzVCfc5403L4O-iF5dYeI2oYu_O_/view)
 
 <h3  align="left">Professional Summary</h3>
   
