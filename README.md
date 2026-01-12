@@ -9,13 +9,7 @@
 
 <h3  align="left">Professional Summary</h3>
   
-  Leon is a senior undergraduate concentrating in Software Engineering.
-
-  Leon, through his projects, has expressed special interest in Full Stack Development and research topics such as Haptic Technologies, Human-Computer Interaction (HCI), Brain-Computer Interfaces (BCI), Human Robotic Interaction (HRI) and Accessibility Technologies more so in Perceptual Interfaces (Virtual, Augmented, and Mixed Reality).
-  
-  He has interned as a Software Engineer at What If Media Group, Sustainible, and Instrument (Where he worked on the Google Design and Microsoft Unlocked websites).
-  
-  Leon is passionate about community building and has participated in hackathons to collaborate with tech communities locally, nationally, and internationally. He is also the president of the FNU tech club, serves as a Github Campus Expert, as well as a college student-athlete.
+Founding Engineer building systems at the intersection of applied AI and human-centered design. Previously conducted research at MIT, focusing on Computer Vision + Accessibility. Based in Miami, working across U.S. and global markets in the health tech space. Passionate about scalable infrastructure, long-term system incentives, and products that thrive under real-world constraints. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
