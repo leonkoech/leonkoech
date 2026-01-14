@@ -13,4 +13,4 @@ Currently building at Atano in Miami. Originally from Kenya. 15+ hackathon wins 
 - Embedded CV for real-time sports tracking
 
 **Links:**
-[Portfolio](https://leonkoech.com) · [Resume](https://drive.google.com/file/d/1cJQ9xzVCfc5403L4O-iF5dYeI2oYu_O_/view) · [LinkedIn](https://linkedin.com/in/leonkoech)
+[Portfolio](https://leonkoech.com) · [Resume](https://drive.google.com/file/d/1SajK25kciWo0H_TWZD7i4ya41Wn_Aix5/view?usp=sharing) · [LinkedIn](https://linkedin.com/in/leonkoech)
