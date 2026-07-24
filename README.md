@@ -4,7 +4,7 @@
 
 I build production systems across AI, cloud infrastructure, and human-computer interaction. My work has shipped to millions of users through Google and Microsoft, supported NASA astronaut communication research at MIT Media Lab, and scaled health tech startups from zero.
 
-Currently building at Atano in Miami. Originally from Kenya. 15+ hackathon wins at MIT, Stanford, and Harvard.
+Currently building at Guzman & Company in Miami. Originally from Kenya. 15+ hackathon wins at MIT, Stanford, and Harvard.
 
 **Recent work:**
 - Gesture recognition for NASA's Astrobee robot (deaf astronaut communication)
